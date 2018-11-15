@@ -1,0 +1,6 @@
+username = ""
+password = ""
+client_id = ""
+client_secret = ""
+reddit_sub = "all"
+file_name = "link-help-bot.py"
